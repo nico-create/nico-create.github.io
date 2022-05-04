@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Hajime No Ippo",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPXvkW-XozqvFYaPiFLzbXjVdH6Q8BhLmyKOwrs=w408-h544-k-no",
+    "price": 3500,
+    "priceCurrency": "JPY",
+    "lat": 35.700966,
+    "lng": 139.74016
+  },
+  {
+    "id": 2,
+    "name": "Fromatique",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMKObzioxMOx4ypPvFTkZLAEWodZCCL_Shfy4Ov=w408-h272-k-no",
+    "price": 3500,
+    "priceCurrency": "JPY",
+    "lat": 35.70109806915995,
+    "lng": 139.74237605560572
+  },
+  {
+    "id": 3,
+    "name": "Canal Cafe",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNxUEunp0Tg5MKcH3gbCex1rQzvWzbpJ3MCtVs=w408-h306-k-no",
+    "price": 2500,
+    "priceCurrency": "JPY",
+    "lat": 35.70019,
+    "lng": 139.7428
+  },
+  {
+    "id": 4,
+    "name": "Salmon Noodle 3.0",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOEP7t_6TautTn7dNCIfJC3kaQoXrfsB9SWF5Bf=w408-h271-k-no",
+    "price": 1000,
+    "priceCurrency": "JPY",
+    "lat": 35.70398817587988,
+    "lng": 139.73698355531792
+  },
+  {
+    "id": 5,
+    "name": "Le Bretagne Creperie",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOG4-OjzfFPotqOPxxxUaBwaIwiSfitMzBA6lxE=w408-h269-k-no",
+    "price": 2000,
+    "priceCurrency": "JPY",
+    "lat": 35.702011704298016,
+    "lng": 139.74042291514982
+  },
+  {
+    "id": 6,
+    "name": "Uogashi Nihon-ichi",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO6WF2SH7IGTdgsGu2yLLmpGQiLYsTd7JfvkKiJ=w426-h240-k-no",
+    "price": 3000,
+    "priceCurrency": "JPY",
+    "lat": 35.70086372007478,
+    "lng": 139.7419232513491
+  }
+]
